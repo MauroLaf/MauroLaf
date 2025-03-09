@@ -1,0 +1,6 @@
+- 👋 Hi, I'm @MauroLaf  
+- 👀 I'm interested in **API REST development, databases, and SOLID architecture**  
+- 🌱 I'm currently learning **Entity Framework Core, C#, .NET 9.0, and database administration**  
+- 💞️ I'm looking to collaborate on **backend projects, database optimization, and working with ASP.NET and LINQ**  
+- 📫 You can reach me at [Your email or LinkedIn]  
+- ⚡ Fun fact: I enjoy exploring new technologies and optimizing database processes 🚀  
